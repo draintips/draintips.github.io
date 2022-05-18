@@ -1,9 +1,9 @@
 # Site settings
-title: drain.tips
+title: DRAIN.tips
 email: bottom@drain.tips
 description: An AI/ML exercise in gameplaying, like AlphaGo, except for the old Clogged Drain game.
-twitter_username: draintips
-github_username:  draintips
+twitter_username: DRAINtips
+github_username:  DRAINtips
 
 # Build settings
 markdown: kramdown
