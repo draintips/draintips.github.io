@@ -1,9 +1,9 @@
 # Site settings
-title: eXiv.ORG
-email: annotify@annotify.app
-description: Peer-reviewed publishing
-twitter_username: annotifyapp
-github_username:  annotifyapp
+title: drain.tips
+email: bottom@drain.tips
+description: A Practical Recommendation Engine For the Specific Problem of Dealing With Drain Problems
+twitter_username: draintips
+github_username:  draintips
 
 # Build settings
 markdown: kramdown
