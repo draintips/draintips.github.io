@@ -1,21 +1,10 @@
-# Annotations/tagging and AI-driven notifications coach collaborative hybrid cognitive intelligence.
+*Optimizing the neurosphere of work involves improving the DEEP flow of the play of a riveting game.* 
 
-*Optimizing the neurosphere of work involves improving the DEEP flow of the play of a riveting game.* **It's ALL in the mind.**
+**SIMPLIFICATION of impossibly tough problems is ALL in the mind.** Developers have to ditch the cleverness that clogging their codebases ... but doing this requires admitting that code does not flow ... and THE REASON for that lack of flow is that the developer has tried to stuff too much long hair down the ***gitpipe***.
 
-Annotations and notifications might be KEY, but the secret neuro-sauce is how we meditatively freshen-up transform the "air quality" in the work noosphere.
+# What's a ***gitpipe***?
 
-Paying attention to the creative mind is how we will build a collaborative workflow mgmt systems utilizing AI/ML for distributed, reproducible, extensible reliability engineering data analyses with annotated discussion and notifications for peer review. ***It's entirely about optimizing human engagement*** to collaboratively ***HYBRIDIZE cognitive intelligence*** of teams of humans using machines and optimizing trained models for better automation/recommendation.
+Let's re-read [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) with some additional focus on [Git Internals - Plumbing and Porcelain](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain) ... approach this whole thing from a different perspective, with some serious thought given to how we might reduce just shoving things down the gitpipe just because the thing will swallow anything we commit.
 
-*Optimizing the neurosphere of work involves improving the DEEP flow of the play of a riveting game.* **It's ALL in the mind.**
+A ***gitpipe*** is nothing but a likely to be thrown away git ***branch*** that has been created for the sole purpose of staging a soft, mushy, still WORK-IN-PROCESS-EY ***commit*** ... we might want several ***gitpipes*** to hold several different ideas ... but the GOAL of the final master commit is a radically SIMPLER, SMALLER, TIGHTER ***commit*** that make future code more maintainable, more likely to flow. ALWAYS BE SIMPLIFYING the alternative ***gitpipes*** with an eye to selecting the very simplest, tightest, most solid code ... you don't want lots of hair or stringey fur in your code, because *you will get enough of that stuff without trying*.
 
-In general, we see this implementation as being about using patterns and re-using as much code as possible from the Pythonic data science ecosystem, eg [Conda package mgmt](https://docs.conda.io/en/latest/), the [Jupyter architecture](https://docs.jupyter.org/en/latest/projects/architecture/content-architecture.html) and the [standard .ipynb JSON notebook schema](https://github.com/jupyter/nbformat), [SnakeMake workflow mgmt system](https://snakemake.readthedocs.io/en/stable/), as well as others, like [Google Colaboratory](https://colab.research.google.com/) or [Amazon EMR JupyterHub](https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-jupyterhub.html) or others which use a similar, ***nearly*** standard architecture.
-
-We believe that this distributed, but version-controlled workflow should work well for those who are already famililar with [advanced Git[Lab] workflows](https://docs.gitlab.com/ee/topics/gitlab_flow.html) of including affiliated methods, processes, issues, CI/CD pipelines and a wide variety of tools used in MLops. Data engineering for reliability engineering and warranty tracking in systems [which often involve products from different, possibly competing companies and entities] is perhaps not really so much feature-based as with software as much as the forks in the reliability analyses might be annotation-based or driven by cross-referenced or other documented concerns which arise during peer-review of the analyses of issues and opportunities for improvement.  
-
-# Annotify.App will be an illustrative example of the Annotify.ORG open source workflow mgmt system.
-
-Annotify.APP will be primarily intended to illustrate, in one specific example, how the ANNOTIFY.ORG open source material might be implemented. 
-
-The goal, at least at first, of ANNOTIFY.APP will be exclusively for illustration. **At first**, the open source project will be developed in order to make this one concrete example of an application work. Later the open source project will be developed for other usage profiles. It is possible that this example could also ***eventually someday*** evolve into a separate product, but not at first.
-
-As all open source advocates well know **projects are not products** ... illustrative examples of projects are not immediately intended to be products.
