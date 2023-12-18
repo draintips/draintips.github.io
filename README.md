@@ -11,3 +11,5 @@ A ***gitpipe*** is nothing but a likely to be thrown away git ***branch*** that 
 # DeepGit is for unclogging clogged ***gitpipes***
 
 What if ML/AI actually made things radically simpler?
+
+HOW does the subconscious process things into a simpler concepts that the conscious mind insists upon making more complex ... what if we could use ML/AI to subconsciously simplify the code we write? 
