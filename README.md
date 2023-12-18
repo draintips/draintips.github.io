@@ -8,3 +8,6 @@ Let's re-read [Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branc
 
 A ***gitpipe*** is nothing but a likely to be thrown away git ***branch*** that has been created for the sole purpose of staging a soft, mushy, still WORK-IN-PROCESS-EY ***commit*** ... we might want several ***gitpipes*** to hold several different ideas ... but the GOAL of the final master commit is a radically SIMPLER, SMALLER, TIGHTER ***commit*** that make future code more maintainable, more likely to flow. ALWAYS BE SIMPLIFYING the alternative ***gitpipes*** with an eye to selecting the very simplest, tightest, most solid code ... you don't want lots of hair or stringey fur in your code, because *you will get enough of that stuff without trying*.
 
+# DeepGit is for unclogging clogged ***gitpipes***
+
+What if ML/AI actually made things radically simpler?
