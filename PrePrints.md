@@ -1,11 +1,17 @@
 ---
 layout: page
-title: PrePrints
+title: AI PrePrints
 permalink: /PrePrints/
 ---
 
 
-https://en.wikipedia.org/wiki/List_of_preprint_repositories
+We live in really exciting times in the realm of AI ... so of course, we spend more than enough time on HuggingFace or other repositories of AI models ... but in order to really have some semblance of an understanding where the field of AI algorithms is going, we look at lots of preprints ... but we look at a lot more abstracts from the [pre-print repositories](https://en.wikipedia.org/wiki/List_of_preprint_repositories) ... in order to find a few needles in the giant and growing haystack of preprints.
+
+In order to wade through this material, we suscribe to and try to at least scroll through the abstracts of lots of the RSS feeds from Arxiv topics ... AI about AI is not really useful YET ... but having some familiarity with the topics does help with prompt engineering.
+
+So we don't aim to be dangerous, but we do need to understand the jargon and have something approaching a very general, hazy, approximate sense of where the field is going ... for example, we might use our feedreeder to subscribe to a *cs.AI* feed by inputing something like the feed URL http://arxiv.org/rss/cs.AI/recent into the *Manage feed subscriptions" dialog ... where cs.AI or *computer science dot artificial intelligence* is from the [Arxiv category taxonomy](https://arxiv.org/category_taxonomy).
+
+But, in addition to Arxiv ... there are lots of other open access archives of pre-prints that we will also use at times.
 
 
 [AAS Open Research](https://osf.io/preprints)	Multidisciplinary archive, with [GitHub repository for rolling your own pre-print archive](https://github.com/CenterForOpenScience/ember-osf-preprints)
