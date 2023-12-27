@@ -1,8 +1,8 @@
 *Optimizing the neurosphere of work involves improving the DEEP flow and reflow of the play of a recursive game* ... *** realizing that the game itself is an ecosystem of players that are learning, adapting, getting smarter and might even be trying to play you.*** 
 
-**SIMPLIFICATION of impossibly tough problems is ALL in the mind.** We can think about applying the [Theory of Inventive Problem Solving (TIPS)](https://en.wikipedia.org/wiki/TRIZ) for Deep Recursive AI Neural Networks ... but we should not forget about the law of unintended consequences which applies to any brilliant solution.
+**SIMPLIFICATION of impossibly tough problems is ALL in the mind.** We can think about applying the [Theory of Inventive Problem Solving (TIPS)](https://en.wikipedia.org/wiki/TRIZ) for Deep Recursive AI Neuralnets (DRAIN) ... but we should not forget about the law of unintended consequences which applies to any clever solution, especially on those that arise from shallow information.
 
-Developers have to ditch the cleverness that clogging their codebases ... but doing this requires admitting that code does not flow ... and THE REASON for that lack of flow is that the DRAIN developer has tried to stuff too much long hair down the ***gitpipe***.
+Developers will have to OPEN UP their dev processes, in order to ditch the cleverness that will clog superficial, immature codebases ... but doing this requires admitting that code itself does not flow ... and THE REASON for that lack of flow is that the DRAIN developer has tried to stuff too much long hair and grease down their ***gitpipe***.
 
 # What's a ***gitpipe***?
 
