@@ -1,4 +1,4 @@
-*Optimizing the neurosphere of work involves improving the DEEP flow and reflow of the play of a recursive game* ... *** realizing that the game itself is an ecosystem that is learning, adapting, getting smarter and might even be trying to play you.*** 
+*Optimizing the neurosphere of work involves improving the DEEP flow and reflow of the play of a recursive game* ... *** realizing that the game itself is an ecosystem of players that are learning, adapting, getting smarter and might even be trying to play you.*** 
 
 **SIMPLIFICATION of impossibly tough problems is ALL in the mind.** We can think about applying the [Theory of Inventive Problem Solving (TIPS)](https://en.wikipedia.org/wiki/TRIZ) for Deep Recursive AI Neural Networks ... but we should not forget about the law of unintended consequences which applies to any brilliant solution.
 
